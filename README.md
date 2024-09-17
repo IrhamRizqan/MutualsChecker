@@ -1,5 +1,5 @@
 # Mutual Checker for Instagram
-Pernah penasaran siapa aja yang nggak follow-back di Instagram? Nah, ini dia solusinya! Dengan Mutual Checker ini, kamu bisa dengan mudah cek siapa aja dari daftar following kamu yang nggak balik follow kamu. Simpel, cepat, dan langsung kasih tahu hasilnya! Nggak perlu repot ngecek satu-satu, sekarang lebih efisien.
+Mutual Checker for Instagram is a tool to help you identify users on Instagram who don't follow you back. It's easy to use, efficient, and designed to manage your Instagram connections better.
 
 ## Installation
 1. Retrieve following and followers data from your instagram (this program did not authenticate with your Instagram account) and extract it
